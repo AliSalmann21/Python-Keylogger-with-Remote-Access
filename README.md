@@ -33,10 +33,6 @@ The keylogger will start running as soon as you run the `main.py` file. It will 
 
 To exit the keylogger, press the `ESC` key. To run the keylogger in hidden mode, pass the `-h` argument when running the `main.py` file.
 
-## Contributing
-
-If you find any bugs or have suggestions for new features, please open an issue or submit a pull request.
-
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
